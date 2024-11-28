@@ -8,7 +8,7 @@ app.get('/hello-word', (req, res) => {
 app.get('/hello', (req,res) => {
     res.json({ message: 'Welcome to the API' });
 })
-
+// 
 app.get('/', (req, res) => {
     res.json({ message: 'Welcome to the API' });
 });
