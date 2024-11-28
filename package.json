@@ -1,0 +1,14 @@
+{
+  "name": "demo-node02",
+  "version": "1.0.0",
+  "description": "Practicando Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jesus Zavaleta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
